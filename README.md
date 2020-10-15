@@ -1,1 +1,1 @@
-# Exercises from "You Don't Know JS"
+# Exercises from You Don't Know JS
